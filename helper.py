@@ -1,12 +1,3 @@
-# -*- coding: utf-8 -*-
-"""
-pipya helper file
-Copyright (c) 2015 Brunston Poon
-This program is distributed in the hope that it will be useful,
-but WITHOUT ANY WARRANTY; without even the implied warranty of
-MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.
-Full license in LICENCE.txt
-"""
 
 from datetime import datetime
 from urllib.request import urlopen
