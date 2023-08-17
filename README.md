@@ -9,8 +9,6 @@ partner-in-crime that sits in a terminal window.
 
 -fetch news headlines from NPR and the Atlantic
 
--fetch the weather
-
 ## Dependencies:
 Pipya requires feedparser and ANSI.sys (for colors) support in Windows.
 
